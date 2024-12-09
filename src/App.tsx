@@ -327,7 +327,7 @@ function App(): JSX.Element {
             </section>
           </main>
           <footer className="footer">
-            <p>... because coding is easier than being social.</p>
+            <p>... synthesized by semi-serious space snakes ...</p>
           </footer>
         </div>
       </AppContext.Provider>
